@@ -5,7 +5,5 @@ EXTINF:-1,VH1
 http://zufreelist.net:8080/live/listam3ufreliz/frelizt/151.m3u8
 EXTINF:-1,vH1 Classic
 http://zufreelist.net:8080/live/listam3ufreliz/frelizt/152.m3u8
-#EXTINF:-1,FOX SPORT 1
-http://streamer1.cdniptv.com:7070/hls/ne-fox-sport1hd.m3u8
-#EXTINF:-1,FOX SPORT 2
-http://streamer1.cdniptv.com:7070/hls/ne-fox-sport2hd.m3u8
+#EXTINF:-1,HBO Comedy
+http://ccmedia.one:25461/live/Nbakken81/0PXXKWtRu4/275.m3u8   
