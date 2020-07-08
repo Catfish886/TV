@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1,United States:CBS
 http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8
+EXTINF:-1,VH1
+http://zufreelist.net:8080/live/listam3ufreliz/frelizt/151.m3u8
+EXTINF:-1,vH1 Classic
+http://zufreelist.net:8080/live/listam3ufreliz/frelizt/152.m3u8
