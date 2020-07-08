@@ -5,5 +5,5 @@ EXTINF:-1,VH1
 http://zufreelist.net:8080/live/listam3ufreliz/frelizt/151.m3u8
 EXTINF:-1,vH1 Classic
 http://zufreelist.net:8080/live/listam3ufreliz/frelizt/152.m3u8
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/DEPORTES/3.png" group-title="DEPORTES", ESPN
-http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/276.m3u8
+#EXTM3U
+http://caspertv.live:8000/get.php?username=younesspro&password=ZBcXeRsFTO&type=m3u
